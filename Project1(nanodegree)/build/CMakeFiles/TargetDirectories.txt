@@ -1,0 +1,3 @@
+/home/selwana/Project1/build/CMakeFiles/rebuild_cache.dir
+/home/selwana/Project1/build/CMakeFiles/hello.dir
+/home/selwana/Project1/build/CMakeFiles/edit_cache.dir
